@@ -1,5 +1,5 @@
 # Adaptive Threat Division Blogs
-Weblogs written by members of ATD, on red teaming, penetration testing, post-exploitation techniques, and general information security.
+Weblogs written by members of ATD, on red teaming, penetration testing, post-exploitation techniques, and general information security. Not in any particular order. 
 
 ## [@harmj0y](https://twitter.com/harmj0y)
 **Blog**: harmj0y - security at the misfortune of others - http://blog.harmj0y.net
