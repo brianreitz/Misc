@@ -1,6 +1,6 @@
 # SpecterOps Blogs #
 
-| *Twitter* | *Blog* | *GitHub* | *Gist* |
+| **Twitter** | **Blog** | **GitHub** | **Gist** |
 |---|---|---|---|
 | [mattifestation](https://twitter.com/mattifestation) | http://www.exploit-monday.com/ | https://github.com/mattifestation | https://gist.github.com/mattifestation |
 | [harmj0y](https://twitter.com/harmj0y) | https://blog.harmj0y.net | https://github.com/harmj0y | https://gist.github.com/harmj0y |
@@ -12,7 +12,7 @@
 | [n0pesled](https://twitter.com/n0pe_sled) | https://blog.inspired-sec.com/ | https://github.com/n0pe-sled | https://gist.github.com/n0pe-sled |
 | [pickles](https://twitter.com/_P1CKLES_) | https://pickles.xyz | https://github.com/GR1X1S | - |
 | [CarloAlcan](https://twitter.com/carloalcan) | http://www.dcellular.net/blog/ | https://github.com/Dcellular | - |
-| [tifkin_](https://twitter.com/tifkin_) | *blogless Lee* | https://github.com/leechristensen | https://gist.github.com/leechristensen |
+| [tifkin_](https://twitter.com/tifkin_) | **blogless Lee** | https://github.com/leechristensen | https://gist.github.com/leechristensen |
 | [_wald0](https://twitter.com/_wald0) | https://wald0.com/ | https://github.com/andyrobbins | https://gist.github.com/andyrobbins |
 | [cptjesus](https://twitter.com/cptjesus) | https://blog.cptjesus.com/ | https://github.com/rvazarkar | https://gist.github.com/rvazarkar |
 | [AndrewChiles](https://twitter.com/AndrewChiles) | http://threatexpress.com/ | https://github.com/threatexpress | - |
