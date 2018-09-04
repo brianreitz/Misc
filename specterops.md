@@ -13,6 +13,9 @@
 | [pickles](https://twitter.com/_P1CKLES_) | [pickles.xyz](https://pickles.xyz) | [GR1X1S](https://github.com/GR1X1S) | - |
 | [CarloAlcan](https://twitter.com/carloalcan) | [dcellular.net](http://www.dcellular.net/blog/) | [dcellular](https://github.com/Dcellular) | - |
 | [tifkin_](https://twitter.com/tifkin_) | **Blogless Lee** | [leechristensen](https://github.com/leechristensen) | [leechristensen](https://gist.github.com/leechristensen) |
+| [cobbr_io](https://twitter.com/cobbr_io) | [cobbr.io](https://www.cobbr.io/) | [cobbr](https://github.com/cobbr) | [cobbr](https://gist.github.com/cobbr) |
+| [0xthirteen](https://twitter.com/0xthirteen) | - | [0xthirteen](https://github.com/0xthirteen) | [0xthirteen](https://gist.github.com/0xthirteen) |
+| [cmaddalena](https://twitter.com/cmaddalena) | [chrismaddalena.com](https://www.chrismaddalena.com/) | [chrismaddalena](https://github.com/chrismaddalena) | [chrismaddalena](https://gist.github.com/chrismaddalena) |
 | [_wald0](https://twitter.com/_wald0) | [wald0.com](https://wald0.com/) | [andyrobbins](https://github.com/andyrobbins) | [andyrobbins](https://gist.github.com/andyrobbins) |
 | [cptjesus](https://twitter.com/cptjesus) | [cptjesus.com](https://blog.cptjesus.com/) | [rvazarkar](https://github.com/rvazarkar) | [rvazarkar](https://gist.github.com/rvazarkar) |
 | [AndrewChiles](https://twitter.com/AndrewChiles) | [threatexpress.com](http://threatexpress.com/) | [threatexpress](https://github.com/threatexpress) | - |
