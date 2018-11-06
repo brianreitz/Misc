@@ -16,7 +16,7 @@
 | [cobbr_io](https://twitter.com/cobbr_io) | [cobbr.io](https://www.cobbr.io/) | [cobbr](https://github.com/cobbr) | [cobbr](https://gist.github.com/cobbr) |
 | [0xthirteen](https://twitter.com/0xthirteen) | - | [0xthirteen](https://github.com/0xthirteen) | [0xthirteen](https://gist.github.com/0xthirteen) |
 | [cmaddalena](https://twitter.com/cmaddalena) | [chrismaddalena.com](https://www.chrismaddalena.com/) | [chrismaddalena](https://github.com/chrismaddalena) | [chrismaddalena](https://gist.github.com/chrismaddalena) |
-| [its_a_feature_](https://twitter.com/its_a_feature_) | (its-a-feature)(https://its-a-feature.github.io/) | [its-a-feature](https://github.com/its-a-feature) | [its-a-feature](https://gist.github.com/its-a-feature) |
+| [its_a_feature_](https://twitter.com/its_a_feature_) | [its-a-feature](https://its-a-feature.github.io/) | [its-a-feature](https://github.com/its-a-feature) | [its-a-feature](https://gist.github.com/its-a-feature) |
 | [Ne0nd0g](https://twitter.com/ne0nd0g) | [Ne0nd0g](https://medium.com/@Ne0nd0g) | [Ne0nd0g](https://github.com/Ne0nd0g) | [Ne0nd0g](https://gist.github.com/Ne0nd0g) |
 | [fuzzzynoise](https://twitter.com/fuzzzynoise) | - | [evilsomething](https://github.com/evilsomething) | [evilsomething](https://gist.github.com/evilsomething) |
 | [d00mfist](https://twitter.com/d00mfist) | [@D00MFist](https://medium.com/@D00MFist) | [D00MFist](https://github.com/D00MFist) | - |
