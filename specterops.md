@@ -19,7 +19,7 @@
 | [its_a_feature_](https://twitter.com/its_a_feature_) | [its-a-feature](https://its-a-feature.github.io/) | [its-a-feature](https://github.com/its-a-feature) | [its-a-feature](https://gist.github.com/its-a-feature) |
 | [Ne0nd0g](https://twitter.com/ne0nd0g) | [Ne0nd0g](https://medium.com/@Ne0nd0g) | [Ne0nd0g](https://github.com/Ne0nd0g) | [Ne0nd0g](https://gist.github.com/Ne0nd0g) |
 | [fuzzzynoise](https://twitter.com/fuzzzynoise) | - | [evilsomething](https://github.com/evilsomething) | [evilsomething](https://gist.github.com/evilsomething) |
-| [d00mfist](https://twitter.com/d00mfist) | [@D00MFist](https://medium.com/@D00MFist) | [D00MFist](https://github.com/D00MFist) | - |
+| [d00mfist](https://twitter.com/_d00mfist) | [@D00MFist](https://medium.com/@D00MFist) | [D00MFist](https://github.com/D00MFist) | - |
 | [_wald0](https://twitter.com/_wald0) | [wald0.com](https://wald0.com/) | [andyrobbins](https://github.com/andyrobbins) | [andyrobbins](https://gist.github.com/andyrobbins) |
 | [cptjesus](https://twitter.com/cptjesus) | [cptjesus.com](https://blog.cptjesus.com/) | [rvazarkar](https://github.com/rvazarkar) | [rvazarkar](https://gist.github.com/rvazarkar) |
 | [AndrewChiles](https://twitter.com/AndrewChiles) | [threatexpress.com](http://threatexpress.com/) | [threatexpress](https://github.com/threatexpress) | - |
