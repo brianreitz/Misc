@@ -20,6 +20,7 @@
 | [Ne0nd0g](https://twitter.com/ne0nd0g) | [Ne0nd0g](https://medium.com/@Ne0nd0g) | [Ne0nd0g](https://github.com/Ne0nd0g) | [Ne0nd0g](https://gist.github.com/Ne0nd0g) |
 | [fuzzzynoise](https://twitter.com/fuzzzynoise) | - | [evilsomething](https://github.com/evilsomething) | [evilsomething](https://gist.github.com/evilsomething) |
 | [d00mfist](https://twitter.com/_d00mfist) | [@D00MFist](https://medium.com/@D00MFist) | [D00MFist](https://github.com/D00MFist) | - |
+| [slyd0g](https://twitter.com/slyd0g) | [grump-sec](https://grumpy-sec.blogspot.com/) | [justinbui](https://github.com/justinbui) | [justinbui](https://gist.github.com/justinbui) |
 | [_wald0](https://twitter.com/_wald0) | [wald0.com](https://wald0.com/) | [andyrobbins](https://github.com/andyrobbins) | [andyrobbins](https://gist.github.com/andyrobbins) |
 | [cptjesus](https://twitter.com/cptjesus) | [cptjesus.com](https://blog.cptjesus.com/) | [rvazarkar](https://github.com/rvazarkar) | [rvazarkar](https://gist.github.com/rvazarkar) |
 | [AndrewChiles](https://twitter.com/AndrewChiles) | [threatexpress.com](http://threatexpress.com/) | [threatexpress](https://github.com/threatexpress) | - |
@@ -28,5 +29,6 @@
 | [Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) | [cyberwardog](https://cyberwardog.blogspot.com/) | [Cyb3rWard0g](https://github.com/Cyb3rWard0g) | [Cyb3rWard0g](https://gist.github.com/Cyb3rWard0g) |
 | [joevest](https://twitter.com/joevest) | [threatexpress.com](http://threatexpress.com/) <br> [rto.wiki](https://rto.wiki/) | [threatexpress](https://github.com/threatexpress) | - |
 | [rrcyrus](https://twitter.com/rrcyrus) | [securityneversleeps.net](https://securityneversleeps.net) | [richiercyrus](https://github.com/richiercyrus) | [richiercyrus](https://gist.github.com/richiercyrus) |
+| [Nc3pt0r](https://twitter.com/Nc3pt0r) | - | [nc3pt0r](https://github.com/nc3pt0r) | - |
 | [robwinchester3](https://twitter.com/robwinchester3) | - | [robwinchester3](https://github.com/robwinchester3) | - |
 | [brian_psu](https://twitter.com/brian_psu) | [@huntteaming](https://medium.com/@huntteaming) | [brianreitz](https://github.com/brianreitz) | - |
