@@ -30,5 +30,6 @@
 | [joevest](https://twitter.com/joevest) | [threatexpress.com](http://threatexpress.com/) <br> [rto.wiki](https://rto.wiki/) | [threatexpress](https://github.com/threatexpress) | - |
 | [rrcyrus](https://twitter.com/rrcyrus) | [securityneversleeps.net](https://securityneversleeps.net) | [richiercyrus](https://github.com/richiercyrus) | [richiercyrus](https://gist.github.com/richiercyrus) |
 | [Nc3pt0r](https://twitter.com/Nc3pt0r) | - | [nc3pt0r](https://github.com/nc3pt0r) | - |
+| [v3r5ace](https://twitter.com/v3r5ace) | - | [v3r5ace](https://github.com/v3r5ace) | - |
 | [robwinchester3](https://twitter.com/robwinchester3) | - | [robwinchester3](https://github.com/robwinchester3) | - |
 | [brian_psu](https://twitter.com/brian_psu) | [@huntteaming](https://medium.com/@huntteaming) | [brianreitz](https://github.com/brianreitz) | - |
