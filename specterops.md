@@ -12,24 +12,29 @@
 | [n0pe_sled](https://twitter.com/n0pe_sled) | [inspired-sec.com](https://blog.inspired-sec.com/) | [n0pe-sled](https://github.com/n0pe-sled) | [n0pe-sled](https://gist.github.com/n0pe-sled) |
 | [pickles](https://twitter.com/_P1CKLES_) | [pickles.xyz](https://pickles.xyz) | [GR1X1S](https://github.com/GR1X1S) | - |
 | [CarloAlcan](https://twitter.com/carloalcan) | [dcellular.net](http://www.dcellular.net/blog/) | [dcellular](https://github.com/Dcellular) | - |
-| [tifkin_](https://twitter.com/tifkin_) | **Blogless Lee** | [leechristensen](https://github.com/leechristensen) | [leechristensen](https://gist.github.com/leechristensen) |
+| [tifkin_](https://twitter.com/tifkin_) | `blogless lee` | [leechristensen](https://github.com/leechristensen) | [leechristensen](https://gist.github.com/leechristensen) |
 | [cobbr_io](https://twitter.com/cobbr_io) | [cobbr.io](https://www.cobbr.io/) | [cobbr](https://github.com/cobbr) | [cobbr](https://gist.github.com/cobbr) |
 | [0xthirteen](https://twitter.com/0xthirteen) | - | [0xthirteen](https://github.com/0xthirteen) | [0xthirteen](https://gist.github.com/0xthirteen) |
 | [cmaddalena](https://twitter.com/cmaddalena) | [chrismaddalena.com](https://www.chrismaddalena.com/) | [chrismaddalena](https://github.com/chrismaddalena) | [chrismaddalena](https://gist.github.com/chrismaddalena) |
 | [its_a_feature_](https://twitter.com/its_a_feature_) | [its-a-feature](https://its-a-feature.github.io/) | [its-a-feature](https://github.com/its-a-feature) | [its-a-feature](https://gist.github.com/its-a-feature) |
 | [Ne0nd0g](https://twitter.com/ne0nd0g) | [Ne0nd0g](https://medium.com/@Ne0nd0g) | [Ne0nd0g](https://github.com/Ne0nd0g) | [Ne0nd0g](https://gist.github.com/Ne0nd0g) |
-| [fuzzzynoise](https://twitter.com/fuzzzynoise) | - | [evilsomething](https://github.com/evilsomething) | [evilsomething](https://gist.github.com/evilsomething) |
+| [kellthenoise](https://twitter.com/kellthenoise) | - | [evilsomething](https://github.com/evilsomething) | [evilsomething](https://gist.github.com/evilsomething) |
 | [d00mfist](https://twitter.com/_d00mfist) | [@D00MFist](https://medium.com/@D00MFist) | [D00MFist](https://github.com/D00MFist) | - |
+| **Twitter** | **Blog** | **GitHub** | **Gist** |
 | [slyd0g](https://twitter.com/slyd0g) | [grump-sec](https://grumpy-sec.blogspot.com/) | [justinbui](https://github.com/justinbui) | [justinbui](https://gist.github.com/justinbui) |
+| [Haus3c](https://twitter.com/Haus3c) | [hausec.com](https://hausec.com/) | [hausec](https://github.com/hausec) | - |
 | [_wald0](https://twitter.com/_wald0) | [wald0.com](https://wald0.com/) | [andyrobbins](https://github.com/andyrobbins) | [andyrobbins](https://gist.github.com/andyrobbins) |
 | [cptjesus](https://twitter.com/cptjesus) | [cptjesus.com](https://blog.cptjesus.com/) | [rvazarkar](https://github.com/rvazarkar) | [rvazarkar](https://gist.github.com/rvazarkar) |
+| [s0lst1c3](https://twitter.com/s0lst1c3) | [solstice.sh](http://solstice.sh/) | [s0lst1c3](https://github.com/s0lst1c3) | - |
 | [AndrewChiles](https://twitter.com/AndrewChiles) | [threatexpress.com](http://threatexpress.com/) | [threatexpress](https://github.com/threatexpress) | - |
 | [geekops](https://twitter.com/geekops) | [geekops.com](http://www.geekops.com/) | [covertgeek](https://github.com/covertgeek) | [covertgeek](https://gist.github.com/covertgeek) |
 | [jaredcatkinson](https://twitter.com/jaredcatkinson) | [invoke-ir.com](http://www.invoke-ir.com/) | [jaredcatkinson](https://github.com/jaredcatkinson) <br> [invoke-ir](https://github.com/invoke-ir) | [jaredcatkinson](https://gist.github.com/jaredcatkinson) |
-| [Cyb3rWard0g](https://twitter.com/Cyb3rWard0g) | [cyberwardog](https://cyberwardog.blogspot.com/) | [Cyb3rWard0g](https://github.com/Cyb3rWard0g) | [Cyb3rWard0g](https://gist.github.com/Cyb3rWard0g) |
 | [joevest](https://twitter.com/joevest) | [threatexpress.com](http://threatexpress.com/) <br> [rto.wiki](https://rto.wiki/) | [threatexpress](https://github.com/threatexpress) | - |
 | [rrcyrus](https://twitter.com/rrcyrus) | [securityneversleeps.net](https://securityneversleeps.net) | [richiercyrus](https://github.com/richiercyrus) | [richiercyrus](https://gist.github.com/richiercyrus) |
 | [Nc3pt0r](https://twitter.com/Nc3pt0r) | - | [nc3pt0r](https://github.com/nc3pt0r) | - |
 | [v3r5ace](https://twitter.com/v3r5ace) | - | [v3r5ace](https://github.com/v3r5ace) | - |
 | [robwinchester3](https://twitter.com/robwinchester3) | - | [robwinchester3](https://github.com/robwinchester3) | - |
+| [Praga_Prag](https://twitter.com/Praga_Prag) | [bouj33boy.com](https://bouj33boy.com/) | [bouj33boy](https://github.com/bouj33boy) | - |
+| [jsecurity101](https://twitter.com/jsecurity101) | [jsecurity101](https://jsecurity101.com/#blog) | [jsecurity101](https://github.com/jsecurity101) | - |
 | [brian_psu](https://twitter.com/brian_psu) | [@huntteaming](https://medium.com/@huntteaming) | [brianreitz](https://github.com/brianreitz) | - |
+| **Twitter** | **Blog** | **GitHub** | **Gist** |
